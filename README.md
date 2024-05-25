@@ -19,6 +19,7 @@ Components:-
 	◦	Buck convertor 
 
 How it works?
+
 I.In the Peltier effect, when an electric current passes through a Peltier module, one side of the module absorbs heat (becomes cold) while the other side releases heat (becomes hot). This temperature difference is what creates the potential for generating electricity.
 II.Incorporation of a heat sink and fan to maintain temperature differentials for efficient thermoelectric conversion.
 III.Utilization of a display, controlled by Arduino Nano, to provide real-time feedback on energy generation and usage.
