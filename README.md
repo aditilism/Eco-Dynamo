@@ -1,4 +1,4 @@
-EcoDynamo -The resourceful approach
+Eco-Dynamo -The resourceful approach
 
 The conversion of heat to electricity is a fundamental aspect of thermoelectricity. Thermoelectricity is the direct conversion of heat into electricity using a phenomenon called the Seebeck effect. This effect occurs when a temperature difference is applied across a thermoelectric material, resulting in the generation of an electric voltage. This voltage can then be used to power electronic devices or stored in batteries.
 
